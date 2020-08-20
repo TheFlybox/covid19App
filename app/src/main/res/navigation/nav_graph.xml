@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.covid19.fragments.HomeFragment"
+        android:label="@string/home_title"
+        tools:layout="@layout/fragment_home"/>
+
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.example.covid19.fragments.MenuFragment"
+        android:label="@string/menu_title"
+        tools:layout="@layout/fragment_menu"/>
+
+    <fragment
+        android:id="@+id/notificationFragment"
+        android:name="com.example.covid19.fragments.NotificationFragment"
+        android:label="@string/notification_title"
+        tools:layout="@layout/fragment_notification"/>
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.covid19.fragments.ProfileFragment"
+        android:label="@string/profile_title"
+        tools:layout="@layout/fragment_profile"/>
+
+</navigation>

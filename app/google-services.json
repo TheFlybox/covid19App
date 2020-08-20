@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "213133837735",
+    "firebase_url": "https://soloq-444eb.firebaseio.com",
+    "project_id": "soloq-444eb",
+    "storage_bucket": "soloq-444eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213133837735:android:764f6d41ed0423a04aa282",
+        "android_client_info": {
+          "package_name": "com.example.amigaveneno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213133837735-rggs7kvfvfioat31mluhmrq8leq1k3dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4mNHAUhBBiB5SCkNsKpJElDQkGGsicc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213133837735-rggs7kvfvfioat31mluhmrq8leq1k3dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213133837735:android:cb46558de6ac6b614aa282",
+        "android_client_info": {
+          "package_name": "com.example.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213133837735-rggs7kvfvfioat31mluhmrq8leq1k3dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4mNHAUhBBiB5SCkNsKpJElDQkGGsicc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213133837735-rggs7kvfvfioat31mluhmrq8leq1k3dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213133837735:android:2aeb24d61fb4f3a74aa282",
+        "android_client_info": {
+          "package_name": "com.example.soloq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213133837735-rggs7kvfvfioat31mluhmrq8leq1k3dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4mNHAUhBBiB5SCkNsKpJElDQkGGsicc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213133837735-rggs7kvfvfioat31mluhmrq8leq1k3dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
